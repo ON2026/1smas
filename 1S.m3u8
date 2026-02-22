@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=350000,RESOLUTION=426x240
+https://alwazir.alwazir-tv.workers.dev/?url=https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_240.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=650000,RESOLUTION=640x360
+https://alwazir.alwazir-tv.workers.dev/?url=https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_360.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1600000,RESOLUTION=1280x720
+https://alwazir.alwazir-tv.workers.dev/?url=https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+https://alwazir.alwazir-tv.workers.dev/?url=https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+ 
