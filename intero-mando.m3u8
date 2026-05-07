@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:2.050000,
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/intero-mando0.ts
+#EXTINF:2.083333,
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/intero-mando1.ts
+#EXTINF:2.083333,
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/intero-mando2.ts
+#EXTINF:2.083333,
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/intero-mando3.ts
+#EXTINF:2.083333,
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/intero-mando4.ts
+#EXTINF:0.616667,
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/intero-mando5.ts
+#EXT-X-ENDLIST
